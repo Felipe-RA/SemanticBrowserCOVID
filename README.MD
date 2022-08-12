@@ -8,6 +8,7 @@ This is a proposed exercise from the **ITOS** research team, UDEA, Colombia.
 
 - Install the required dependencies (a requirements file is provided below)
 - Run the `run.py` file
+- If you wish, you can explore the generated DB through MongoDB Compass
 
 ## Some considerations
 
