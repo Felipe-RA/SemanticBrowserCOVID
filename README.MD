@@ -1,4 +1,8 @@
 
+# Semantic Browser COVID
+
+This is a proposed exercise from the **ITOS** research team, UDEA, Colombia.
+
 
 ## Instructions
 
