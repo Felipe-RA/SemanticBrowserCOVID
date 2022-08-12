@@ -37,3 +37,5 @@ To install the required dependencies you have two options:
 >`conda env create -f environment.yml`
 
 Both `requirements.txt` and `environment.yml` can be found in this repo
+
+- INSTALL MONGODB
