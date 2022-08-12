@@ -12,7 +12,7 @@ This is a proposed exercise from the **ITOS** research team, UDEA, Colombia.
 
 ## Some considerations
 
-We noted that the server providing access to the API is located in Europe. Since a sizable lattency was detected (around 600ms avg.), we decided to bulk the access to the API into as few calls as possible. Lattency does add up, specially for common queries.
+We noted that the server providing access to the API is located in Europe. Since a sizable latency was detected (around 600ms avg.), we decided to bulk the access to the API into as few calls as possible. Latency does add up, specially for common queries.
 
 
 ## Proposals to improve this project
@@ -36,4 +36,4 @@ To install the required dependencies you have two options:
 - **If you work with Conda Environments:** 
 >`conda env create -f environment.yml`
 
-Both `requirements.txt` and `environment.yml` are provided at this repo.
+Both `requirements.txt` and `environment.yml` can be found in this repo
